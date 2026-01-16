@@ -2,16 +2,15 @@
 streamlit==1.53.0
 
 # ML / Data packages
-tensorflow==2.20.0
-keras==3.12.0
+
 numpy==2.2.6
 pandas==2.3.3
 scikit-learn==1.7.2
 xgboost==3.1.2
 matplotlib==3.10.0
-plotly==6.5.2
+
 pydeck==0.9.1
-opencv-python==4.8.1.78
+
 Pillow==12.1.0
 
 # Supporting packages
@@ -22,3 +21,4 @@ tensorboard-data-server==0.7.2
 opt_einsum==3.4.0
 ml_dtypes==0.5.3
 ujson==5.11.0
+
